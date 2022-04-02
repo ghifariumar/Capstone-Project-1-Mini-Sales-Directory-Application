@@ -1,5 +1,5 @@
-dict_penjualan =  {"A1" : {"Items" : "Broom", "Price" : "10000", "Sold" : "3", "Person in Responsible" : "Ghifari"},
-             "A2" : {"Items" : "Chair", "Price" : "50000", "Sold" : "4", "Person in Responsible" : "Umar"}}
+dict_penjualan =  {"A1" : {"Item" : "Broom", "Price" : "10000", "Sold" : "3", "Person in Responsible" : "Ghifari"},
+             "A2" : {"Item" : "Chair", "Price" : "50000", "Sold" : "4", "Person in Responsible" : "Umar"}}
 dict_baru = {}
 def menu_utama():
     status=True
