@@ -1,1 +1,0 @@
-# Mini-Sales-Directory-Application
