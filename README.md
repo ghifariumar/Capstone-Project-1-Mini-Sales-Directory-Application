@@ -14,7 +14,7 @@ Example:
 ==========================================================================
 
 ```python
-I make all the function for every menu and at the end of lines I only need to call the menu_utama funtion.
+I make all the function for every menu and at the end of lines I only need to call the menu_utama function.
 ```
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/99155979/161376839-5ddb8c13-c27b-4e08-8a87-264160d59300.png">
 
