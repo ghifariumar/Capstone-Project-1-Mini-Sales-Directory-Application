@@ -18,6 +18,13 @@ I make all the function for every menu and at the end of lines I only need to ca
 ```
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/99155979/161376839-5ddb8c13-c27b-4e08-8a87-264160d59300.png">
 
+```
+Output result for main menu's application:
+```
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/99155979/161672238-94d34233-f328-44ab-961e-416b0f466dcc.png">
+
+
+
 ## 2. Create
 ```python
 Create or add new data one at a time. First we need to input the primary key, in this project the primary key is the item's code.
