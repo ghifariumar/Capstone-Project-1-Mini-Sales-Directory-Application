@@ -27,13 +27,23 @@ Output result for main menu's application:
 
 ## 2. Create
 ```python
-Create or add new data one at a time. First we need to input the primary key, in this project the primary key is the item's code.
+Create or add new data one at a time. First we need to input the primary key. In this project the primary key is the item's code.
 If the primary key is already exist in the sales dictionary then the application will print "sales data is already exist".
 If the primary key is new then user have to insert item's name, price, the amount item's sold, and the person responsible.
 After that, there will be a question to make sure user wants to add a new data or not. If user answer yes than the new sales data 
 will be saved and added to the directory, if user answer no then the data will not be saved.
 ```
-<img width="623" alt="image" src="https://user-images.githubusercontent.com/99155979/161379039-f9448d4e-f2b1-4e71-9196-37f42e23bb09.png">
+<img width="185" alt="1" src="https://user-images.githubusercontent.com/99155979/161680902-948762ad-d030-4966-b416-cb893bc7eee1.png">
+==========================================================================
+<img width="175" alt="2" src="https://user-images.githubusercontent.com/99155979/161680924-7f288a33-1711-4a6a-b6c7-e7d798b4fe9e.png">
+==========================================================================
+<img width="149" alt="3" src="https://user-images.githubusercontent.com/99155979/161680945-d417479e-f3dd-44a4-960c-85039de62bc0.png">
+==========================================================================
+<img width="184" alt="4" src="https://user-images.githubusercontent.com/99155979/161680970-dd745d91-ef69-417f-b029-c36bc6e17103.png">
+==========================================================================
+<img width="461" alt="5" src="https://user-images.githubusercontent.com/99155979/161680997-3b1d1a58-9922-4d4d-9088-17457b6759ee.png">
+==========================================================================
+<img width="250" alt="6" src="https://user-images.githubusercontent.com/99155979/161681011-0476f3cb-3628-44f7-9764-dd6f1868cc35.png">
 
 ## 3. Read
 ```python
@@ -43,12 +53,12 @@ When user wants to see all the data. If there is no data sales at all at the dic
 when user wants to read the exact data by inputing item's code.
 All sales data:
 ```
-<img width="698" alt="image" src="https://user-images.githubusercontent.com/99155979/161379754-39ded675-751e-4535-9000-f5596b9953ca.png">
+<img width="540" alt="2" src="https://user-images.githubusercontent.com/99155979/161683306-3cd28c09-afbf-45cb-b720-2dc74b6edb9a.png">
 
 ```python
 Sales data based on item's code:
 ```
-<img width="710" alt="image" src="https://user-images.githubusercontent.com/99155979/161379819-db2115a8-19f9-4fe1-a439-3052b44dd976.png">
+<img width="529" alt="3" src="https://user-images.githubusercontent.com/99155979/161683331-ef766237-4a9a-43bc-97c1-b2d8a7a26036.png">
 
 ## 4. Update
 ```python
@@ -59,12 +69,12 @@ the description user wants to change if user inserts the wrong description, appl
 the exact descrption, user insert the details for the description. There will be another yes or no question if user
 answers yes then the sales data will be updated if unser answers no the the sales data will be not updated.
 ```
-<img width="713" alt="image" src="https://user-images.githubusercontent.com/99155979/161382954-0d73e046-b877-4772-8cb6-a4738ebabcd0.png">
-
-```python
-Update data's detail on data description based on item's code or primary key:
-```
-<img width="568" alt="image" src="https://user-images.githubusercontent.com/99155979/161383045-756398a8-fb16-4b57-9b25-114aab262886.png">
+<img width="500" alt="2" src="https://user-images.githubusercontent.com/99155979/161697129-351d945e-e7c9-41f3-af9d-ecd90f377e51.png">
+==========================================================================
+<img width="275" alt="3" src="https://user-images.githubusercontent.com/99155979/161697176-da2a2f66-4db0-4216-b6f2-bddb5f665a7e.png">
+==========================================================================
+<img width="529" alt="4" src="https://user-images.githubusercontent.com/99155979/161697205-8d054a2b-a428-4a2e-996e-884c85257a9e.png">
+==========================================================================
 
 ## 5. Delete
 ```python
@@ -73,7 +83,7 @@ If the item's code is not in the directory then the application will print "No S
 the directory the sales data will be removed if user asnwesr yes in the confirmation request, while the sales data 
 will not be removed if the user answers no.
 ```
+<img width="264" alt="1" src="https://user-images.githubusercontent.com/99155979/161699412-40c03faa-586b-4c6b-a153-c79b731272f1.png">
 
-<img width="604" alt="image" src="https://user-images.githubusercontent.com/99155979/161386651-b8e4d82a-82f2-4f0d-8bd0-8d56d4c93f5c.png">
 
 
