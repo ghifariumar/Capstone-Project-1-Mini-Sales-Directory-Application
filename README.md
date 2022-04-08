@@ -1,4 +1,4 @@
-# Capstone Project-1: Mini-Sales-Directory-Application
+# Capstone Project-1: Sales-Directory-Application
 
 In this project I have to make a mini application for directory in sales which can operating to "CRUD" Data(Create, Remove, Update, Delete) and handling errors
 
